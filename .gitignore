@@ -1,4 +1,22 @@
+# Ignore virtual environment
 tf_env/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Jupyter auto-saves
 .ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# TensorFlow model files (optional)
 *.h5
+*.pb
+
+# VS Code config (optional)
+.vscode/
+
+# Other temp or logs
+*.log
