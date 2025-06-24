@@ -1,0 +1,10 @@
+# MNIST TensorFlow Notebook
+
+A simple project that trains a neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/christt94/mnist-tensorflow.git
+   cd mnist-tensorflow
