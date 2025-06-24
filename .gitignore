@@ -20,3 +20,4 @@ __pycache__/
 
 # Other temp or logs
 *.log
+tf_env/
